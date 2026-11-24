@@ -5,7 +5,6 @@ A simple inventory management app for tracking products, stock levels, and low-s
 **Live demo:** [stockflow-3bos.onrender.com](https://stockflow-3bos.onrender.com)  
 **GitHub:** [pavank025k/stockflow](https://github.com/pavank025k/stockflow)
 
-> **Demo data:** The free Render deployment uses temporary SQLite storage. Data may be lost when the service restarts or is redeployed. Don’t use the demo for important inventory records.
 
 ## Features
 
