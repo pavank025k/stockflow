@@ -3,7 +3,7 @@
 A simple inventory management app for tracking products, stock levels, and low-stock items.
 
 **Live demo:** [stockflow-3bos.onrender.com](https://stockflow-3bos.onrender.com)  
-**GitHub:** [pavank025k/stockflow](https://github.com/pavank025k/stockflow)
+
 
 
 ## Features
